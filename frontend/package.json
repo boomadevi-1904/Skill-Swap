@@ -15,8 +15,8 @@
     "react-hot-toast": "^2.6.0",
     "react-router-dom": "^6.21.1"
   },
-  "engines": {
-  "node": "18.x"
+"engines": {
+  "node": "24.x"
 },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
