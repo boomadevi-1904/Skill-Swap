@@ -2,6 +2,8 @@
 
 A university-focused peer-to-peer learning platform where students teach and learn skills from each other. Faculty act as admins to monitor activity. Teaching is coordinated via the platform but conducted outside (in-person, Google Meet, WhatsApp, etc.).
 
+🔗 Live Demo: https://skill-swap-one-pink.vercel.app/
+
 ## Tech Stack
 
 - **Frontend:** React (functional components), Vite, Tailwind CSS, Dark Green & White theme
